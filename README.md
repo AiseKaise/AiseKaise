@@ -53,12 +53,7 @@ ur welcome ;)
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=" alt="Metabase" />&nbsp;&nbsp;
 </p>
 	
-#
 
-<h4 align="center">Where to find me <h4/>
-	<p align="center">
-		[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TheHamkerCat)
-	</p>
 	
 #
 
