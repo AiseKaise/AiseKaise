@@ -1,1 +1,1 @@
-<a href="https://github.com/AiseKaise">![AiseKaise's Gif](./assets/gitprofile.gif)</a>
+<a href="https://github.com/AiseKaise">![AiseKaise's Gif](./assets/githubstarter.gif)</a>
