@@ -12,4 +12,5 @@ ur welcome ;)
 
 <a href="https://github.com/AiseKaise">![AiseKaise's Gif](./assets/githubstarter.gif)</a>
 
-<h1 align="center">William Brochensque Júnior</h1>
+<h1 align="center">Deepraj Kumar</h1>
+<h4 align="center">Fullstack Developer</h4>
