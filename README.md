@@ -11,13 +11,15 @@ ur welcome ;)
 
 
 <a href="https://github.com/AiseKaise">![AiseKaise's Gif](./assets/githubstarter.gif)</a>
+#
 
 <!-- <h1 align="center">Deepraj Kumar</h1> -->
 <!-- <h1 align="center">Fullstack Developer</h1>
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/> -->
 
   
-## Languages
+<h4 align="center">Languages<h4/>
+	
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
