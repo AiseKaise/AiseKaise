@@ -52,6 +52,8 @@ ur welcome ;)
 	<img src="https://img.shields.io/badge/open_source_initiative-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="openSourceInitiative" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=" alt="Metabase" />&nbsp;&nbsp;
 </p>
+	
+#
 
-# 🎶 **Currently Playing**
+<h4 align="center"> 🎶 **Currently Playing**<h4/>
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
