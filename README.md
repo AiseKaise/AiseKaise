@@ -33,11 +33,8 @@ ur welcome ;)
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt"NodeJS" />&nbsp;&nbsp;
 </p>
 
-
-
-
-	
-  
+#
+		
 <h4 align="center">Some Technologies, Frameworks and others<h4/>
 <p align="center">
 	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
