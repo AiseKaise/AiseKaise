@@ -59,4 +59,4 @@ ur welcome ;)
 
 <h4 align="center">  🎶 **Currently Playing** </h4>
 	
-[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/phaxaqzffwwmzna40yengeaqd?si=b7a73e4afd1946fb)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=57duiboyv11ctlr6g7e6tu9uw&cover_image=true&theme=novatorem&bar_color=3dc238&bar_color_cover=false)](https://open.spotify.com/user/phaxaqzffwwmzna40yengeaqd?si=b7a73e4afd1946fb)
