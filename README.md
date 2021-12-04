@@ -19,7 +19,7 @@ ur welcome ;)
 
 
   
-<h4 align="center">Languages<h4/>
+<h3 align="center">Languages</h3>
 	<p align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
@@ -34,7 +34,7 @@ ur welcome ;)
 
 #
 		
-<h4 align="center">Some Technologies, Frameworks and others<h4/>
+<h3 align="center">Some Technologies, Frameworks and others</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
@@ -57,6 +57,6 @@ ur welcome ;)
 #
 
 
-<h4 align="center">  🎶 **Currently Playing** </h4>
+<h3 align="center">  🎶 **Currently Playing** </h3>
 	
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/phaxaqzffwwmzna40yengeaqd?si=b7a73e4afd1946fb)
