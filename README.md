@@ -10,7 +10,7 @@ ur welcome ;)
 -->
 
 
-<a href="https://github.com/AiseKaise">![AiseKaise's Gif](./assets/githubstarter.gif)</a>
+<a href="https://github.com/AiseKaise">![AiseKaise's Gif](./assets/githubstarter2.gif)</a>
 #
 
 <!-- <h1 align="center">Deepraj Kumar</h1> -->
