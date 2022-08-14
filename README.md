@@ -13,7 +13,7 @@ ur welcome ;)
 <a href="https://github.com/AiseKaise">![AiseKaise's Gif](./assets/githubstarter2.gif)</a>
 #
 
-<!-- <h1 align="center">Deepraj Kumar</h1> -->
+<!-- <h1 align="center">.....</h1> -->
 <!-- <h1 align="center">Fullstack Developer</h1>
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/> -->
 
@@ -194,7 +194,7 @@ ur welcome ;)
 
 <div align="center">
   <a
-    href="https://open.spotify.com/user/phaxaqzffwwmzna40yengeaqd?si=58481d846fbf4254"
+    href="https://open.spotify.com/user/phaxaqzffwwmzna40yengeaqd?si=43dedc1d6ed045d7"
     target="_blank"
   >
     <img
